@@ -1,0 +1,4 @@
+node_modules/
+
+# using sass, css is output dir for sass compiled css
+css/
